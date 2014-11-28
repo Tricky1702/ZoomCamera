@@ -1,0 +1,15 @@
+# Manifest variables.
+author = Tricky
+category = Mechanics
+description = External Zoom Camera.
+identifier = uk.org.rockthehalo.oolite.oxp.Tricky.ZoomCamera
+information_url = http://wiki.alioth.net/index.php/ZoomCamera
+license = CC BY-NC-SA 4.0
+required_oolite_version = 1.77
+title = Zoom Camera
+version = 1.0
+
+# Extra variables.
+copyright = © 2013-2014 Richard Thomas Harrison (Tricky)
+license_full = Attribution-Noncommercial-Share Alike 4.0 International
+license_url = http://creativecommons.org/licenses/by-nc-sa/4.0/
